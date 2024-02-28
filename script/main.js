@@ -280,3 +280,123 @@ sitG4.addEventListener("click", function () {
   document.getElementById("total").innerText = 550;
   document.getElementById("grend-total").innerText = 500;
 });
+const sitH1 = document.getElementById("h1");
+sitH1.addEventListener("click", function () {
+  document.getElementById("h1").classList.add("bg-[#1DD100]");
+  document.getElementById("h1").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "H1";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitH2 = document.getElementById("h2");
+sitH2.addEventListener("click", function () {
+  document.getElementById("h2").classList.add("bg-[#1DD100]");
+  document.getElementById("h2").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "H2";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitH3 = document.getElementById("h3");
+sitH3.addEventListener("click", function () {
+  document.getElementById("h3").classList.add("bg-[#1DD100]");
+  document.getElementById("h3").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "H3";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitH4 = document.getElementById("h4");
+sitH4.addEventListener("click", function () {
+  document.getElementById("h4").classList.add("bg-[#1DD100]");
+  document.getElementById("h4").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "H4";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitI1 = document.getElementById("i1");
+sitI1.addEventListener("click", function () {
+  document.getElementById("i1").classList.add("bg-[#1DD100]");
+  document.getElementById("i1").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("sI2eat").innerText = "I1";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitI2 = document.getElementById("i2");
+sitI2.addEventListener("click", function () {
+  document.getElementById("i2").classList.add("bg-[#1DD100]");
+  document.getElementById("i2").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "I2";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitI3 = document.getElementById("i3");
+sitI3.addEventListener("click", function () {
+  document.getElementById("i3").classList.add("bg-[#1DD100]");
+  document.getElementById("i3").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "I3";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitI4 = document.getElementById("i4");
+sitI4.addEventListener("click", function () {
+  document.getElementById("i4").classList.add("bg-[#1DD100]");
+  document.getElementById("i4").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "I4";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitJ1 = document.getElementById("j1");
+sitJ1.addEventListener("click", function () {
+  document.getElementById("j1").classList.add("bg-[#1DD100]");
+  document.getElementById("j1").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "J1";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitJ2 = document.getElementById("j2");
+sitJ2.addEventListener("click", function () {
+  document.getElementById("j2").classList.add("bg-[#1DD100]");
+  document.getElementById("j2").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "J2";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitJ3 = document.getElementById("j3");
+sitJ3.addEventListener("click", function () {
+  document.getElementById("j3").classList.add("bg-[#1DD100]");
+  document.getElementById("j3").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "J3";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
+const sitJ4 = document.getElementById("j4");
+sitJ4.addEventListener("click", function () {
+  document.getElementById("j4").classList.add("bg-[#1DD100]");
+  document.getElementById("j4").classList.remove("bg-[#F7F8F8]");
+  document.getElementById("seat").innerText = "J4";
+  document.getElementById("class").innerText = "Economoy";
+  document.getElementById("price").innerText = 550;
+  document.getElementById("total").innerText = 550;
+  document.getElementById("grend-total").innerText = 500;
+});
